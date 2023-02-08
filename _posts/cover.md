@@ -8,5 +8,6 @@ author:
   picture: '/images/placeholder.png'
 ogImage:
   url: '/images/placeholder.png'
+gameUrl: 'https://wordle-with-friends-marg624.vercel.app/'
 ---
 

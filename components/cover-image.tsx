@@ -3,6 +3,7 @@ import Link from 'next/link'
 import Image from 'next/image'
 
 type Props = {
+  title?: string
   src: string
   slug?: string
 }

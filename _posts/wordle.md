@@ -3,6 +3,7 @@ title: 'Wordle'
 excerpt: 'Wordle [w/ friends] is a multiplayer version of the classic word game.'
 coverImage: '/images/wordle-cover.png'
 date: '2023-02-17T05:35:07.322Z'
+gameUrl: 'https://wordle-with-friends-marg624.vercel.app/'
 author:
   name: .
   picture: '/images/wordle.png'
