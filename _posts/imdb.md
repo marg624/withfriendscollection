@@ -1,14 +1,14 @@
 ---
-title: 'And more!'
-excerpt: 'More games in development.'
-coverImage: '/images/placeholder-cover.png'
-date: '2019-02-17T05:35:07.322Z'
+title: 'IMDB'
+excerpt: 'IMDB [w/ friends] challenges you to find the path from one thespian to another via their works of art and cast members.'
+coverImage: '/images/imdb-cover.png'
+date: '2023-02-26T05:35:07.322Z'
+gameUrl: 'https://imdb-with-friends.vercel.app/'
 author:
-  name: 
-  picture: '/images/placeholder.png'
+  name: .
+  picture: '/images/imdb.png'
 ogImage:
-  url: '/images/placeholder.png'
-gameUrl: 'https://with-friends-collection.vercel.app/'
+  url: '/images/imdb.png'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
