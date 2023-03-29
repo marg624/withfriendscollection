@@ -1,6 +1,6 @@
 ---
 title: 'And more!'
-excerpt: 'More games in development.'
+excerpt: 'While you wait for more games, check out this random thing...'
 coverImage: '/images/placeholder-cover.png'
 date: '2019-02-17T05:35:07.322Z'
 author:

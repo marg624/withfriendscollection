@@ -16,6 +16,10 @@ const PostPreview = ({
   slug,
   gameUrl
 }: Props) => {
+  if ('And more!' == title) {
+    let myArray = ['https://www.tiktok.com/@margar_eat/video/6971604039930809605', 'https://www.tiktok.com/@margar_eat/video/6971678606284098822', 'https://www.tiktok.com/@margar_eat/video/6972610274708819205']
+    gameUrl = myArray[Math.random() * myArray.length | 0]
+  }
   return (
     <div>
       <div className="mb-5">
@@ -35,3 +39,5 @@ const PostPreview = ({
 }
 
 export default PostPreview
+
+
