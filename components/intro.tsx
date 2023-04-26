@@ -7,7 +7,7 @@ const Intro = () => {
         w/ friends
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        A collection of games you can play and share with friends.
+        A collection of things you can enjoy and share with friends.
       </h4>
     </section>
   )
